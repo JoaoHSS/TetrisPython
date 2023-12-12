@@ -1,0 +1,22 @@
+CONTROLES
+r       :   reiniciar jogo
+z       :   rotação ant-horária
+numpad8 :   rotação horária
+numpad4 :   mover para esquerda
+numpad6 :   mover para direita
+numpad5 :   mover para baixo
+ctrl    :   rotação 180
+space   :   hard drop (abaixar a peça ao máximo instantâneamente)
+
+
+algumas coisa que ainda quero implementar futuramente
+
+*DAS                    https://tetris.wiki/DAS                         (basicamente o comportamento das peças so segurar para o lado)
+
+WALLKICK                https://tetris.wiki/Super_Rotation_System       (como as peças giram se estiverem bloqueadas)
+
+MENU
+
+VELOCIDADE NO SOFT DROP
+
+MELHORAR CALCULO DA PONTUAÇÃO   https://tetris.wiki/Scoring#Recent_guideline_compatible_games
